@@ -1,0 +1,17 @@
+//this file holds the base css styling for our whole app.
+html {  
+    font-size: 62.5%; //10px = 0.625rem
+  }
+  
+  body {
+    background:  $light-blue;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: $m-size;
+  }
+  button{
+      cursor: pointer;
+  }
+
+  button:disabled{
+      cursor: default;
+  }

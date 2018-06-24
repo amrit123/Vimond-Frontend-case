@@ -1,0 +1,17 @@
+.header {
+    background: $off-black;
+    color: white;
+    padding: $m-size 0;
+    margin-bottom: $m-size;
+  }
+  .header__title {
+    font-size: $l-size;
+    margin: 0;
+  }
+
+  @media(min-width: 45rem){
+    .header {
+      margin-bottom: $xl-size;
+    }
+   
+}

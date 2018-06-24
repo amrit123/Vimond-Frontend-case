@@ -1,0 +1,11 @@
+.asset{
+    border-bottom: .1rem solid lighten($light-blue,10%);
+    padding: $l-size;
+}
+.asset-text{
+    color: white;
+    font-weight: 200;
+    font-size: 2rem;
+    margin: 0;
+    word-break: break-all;
+}
