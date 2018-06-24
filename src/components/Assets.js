@@ -59,7 +59,7 @@ class Assets extends Component {
               <br />
                 </div>
                    
-                <button className="button" onClick={this.handlePick}>view metadata</button>  <br />
+                <button className="button" onClick={this.handlePick}>play video </button>  <br />
                 
             </div>
         )
